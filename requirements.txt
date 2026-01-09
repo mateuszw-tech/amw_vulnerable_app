@@ -1,6 +1,6 @@
 Flask==0.12
 PyYAML==3.13
-requests==2.19.1
+requests==2.32.5
 Django==2.0
 urllib3==1.23
 Jinja2==2.10
